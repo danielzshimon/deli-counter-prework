@@ -1,7 +1,12 @@
 katz_deli = []
 
-def line()
+def line
+  if 
   
 end
 
-def 
+def take_a_number()
+  
+end
+  
+  
