@@ -11,6 +11,7 @@ def line(katz_deli)
   end
   puts "The line is currently: #{current_line}"
 end
+end
 
 def take_a_number()
   
