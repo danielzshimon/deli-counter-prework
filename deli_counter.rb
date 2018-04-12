@@ -8,7 +8,7 @@ def line(katz_deli)
     katz_deli.each_with_index { |name, index|
     current_line <<  "#{index + 1}. #{name}"}
   end
-  puts "The line is currently: #{current_line.String}"
+  puts "The line is currently: #{current_line.join()}"
 end
 
 def take_a_number()
